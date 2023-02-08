@@ -1,0 +1,153 @@
+header{
+    text-align: center;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#images{
+   
+   width: 20%;
+   height: auto;
+    margin-left: 20%;
+    margin-right: 30%;
+}
+#first{
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    
+    width: 30%;
+    height: 60%;
+    background-color: lightblue;
+    border-radius: 10px;
+}
+#section1{
+    text-align: left;
+    margin-top: auto;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 30%;
+    float: left;
+    background-color: gray;
+    border-radius: 10px;
+
+}
+#h1{
+    text-align: center;
+}
+#section2{
+    float: right;
+    text-align: left;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: 30%;
+    background-color: gray;
+    border-radius: 10px;
+}
+#h2{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+    height: 50px;
+    background: #6cf;
+}
+table{
+    width: 75%;
+    height: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+td,th{
+    border: 3px solid black;
+}
+#heading1{
+    background-color: blue;
+    height: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+th{
+    line-height: 60px;
+}
+tr{
+    line-height: 30px;
+}
+.heading2{
+    background-color: blue;
+}
+.lightblue{
+    background-color: lightblue;
+}
+.yellow{
+    background-color: yellow;
+}
+.purple{
+    background-color: rgb(162, 71, 162);
+}
+.pink{
+    background-color: rgb(239,90,187);
+}
+.green{
+    background-color: rgb(67,163,67);
+    text-align: center;
+}
+.red{
+    background-color: red;
+}
+.orange{
+    background-color: orange;
+}
+#tableheading{
+    font-size: 50px;
+    text-align: center;
+}
+#button{
+    float: right;
+}
+.student{
+    text-align: center;
+}
+.form{
+    font-size: 20px;
+    position: absolute;
+    left: 25;
+    justify-content: center;
+    width: 850px;
+    max-height: 600;
+    padding: auto;
+    padding-top: 0;
+    text-align: center;
+    margin-bottom: 30px;
+}
+span{
+    text-align: right;
+}
+form input{
+    padding: 8px 8px;
+    margin-left: 20px;
+    border-style: solid 2px #000;
+    font-size: 20px;
+    font-weight: 500px;
+}
+fieldset{
+    position: relative;
+    background: lightblue;
+}
